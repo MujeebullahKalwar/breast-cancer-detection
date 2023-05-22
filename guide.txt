@@ -1,0 +1,6 @@
+1. install anaconda
+2. install python 3.6 / 3.7 / 3.8
+3. install libraries pip3 install -r requirements.txt
+4. open anaconda jupyter notebook and open demo file
+# conda install python-3.8.80
+# conda create --name tf_2.4.0 tensorflow=2.4.0
